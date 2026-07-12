@@ -140,6 +140,7 @@ This project demonstrates a complete data analytics pipeline — from automated 
 - 🔗 Many-to-Many relationships for cross-filtering
 - ⚡ DAX measure for dynamic price segmentation
 
+![image alt](https://github.com/mannp2403-cmd/Shoe-brand-analysis/blob/6002af106af75f73c197fe8a162f903c49dd8e43/Screenshot%202026-07-12%20211400.png)
 ---
 
 ## 📂 Files Description
